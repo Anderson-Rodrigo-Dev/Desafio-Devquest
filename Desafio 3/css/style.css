@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.paragrafo1{
+    background: #F5F5F5;
+}
+
+.paragrafo2{
+    background: #F0CCE2;
+}
+
+.paragrafos{
+    margin: 40px;
+    padding: 20px;
+}

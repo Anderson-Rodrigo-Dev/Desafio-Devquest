@@ -1,23 +1,24 @@
-
-
-table {
-    color: #FFFFFF;
+.tabelas {
     text-align: center;
+    width: 20%;
+    margin: 10px;
 }
 
-td {
-    padding: 5px;
-}
-
-.tabela-dados {
+.tabela-moda td, .tabela-casa td{
     background-color: #424250;
+    color: #FFFFFF;
+    padding: 10px;
 }
 
-.tabela-moda .tabela-cabecalho {
+.tabela-moda th {
     background-color: #BB86FC;
+    color: #FFFFFF;
+    padding: 10px;
 }
 
-.tabela-casa .tabela-cabecalho {
+.tabela-casa th {
     background-color: #00C4B4;
+    color: #FFFFFF;
+    padding: 10px;
 }
 

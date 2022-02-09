@@ -2,11 +2,11 @@
     margin: 0px;
     padding: 0px;
 }
-.paragrafo1{
+.paragrafo-normal{
     background: #F5F5F5;
 }
 
-.paragrafo2{
+.paragrafo-destacado{
     background: #F0CCE2;
 }
 
